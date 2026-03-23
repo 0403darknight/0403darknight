@@ -5,8 +5,7 @@
 <h1 align="center">Dhiksha C G</h1>
 
 <p align="center">
-  <b>Data Analyst</b> • Data Science Student <br>
-  SQL • Python • Power BI
+  <b>📊 Turning data into insights & business decisions </b>
 </p>
 
 <p align="center">
@@ -37,10 +36,10 @@ I’m a Data Science student passionate about solving real-world problems using 
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi" />
-<img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoft-excel" />
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy  
+- **Tools:** Power BI, Excel  
+- **Core Skills:** Data Cleaning, Reporting, Dashboarding 
 
 </p>
 
