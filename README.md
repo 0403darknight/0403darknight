@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/0403darknight/0403darknight/blob/main/Dhiksha%20C%20G.png?raw=true" width="100%" />
+</p>
+
 # 👋 Hi, I'm Dhiksha C G
 
 🎓 Data Science Undergraduate | 📊 Data Analyst | 🤖 Aspiring Data Scientist  
