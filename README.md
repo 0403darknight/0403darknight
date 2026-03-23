@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Dhiksha C G
 
-🎓 Data Science Undergraduate | 📊 Data Analyst | 🤖 Aspiring Data Scientist  
+📊 Turning data into insights & business decisions  
 📍 Bengaluru, India  
 
 ---
@@ -18,7 +18,13 @@ I’m a Data Science student passionate about solving real-world problems using 
 - 📈 Interested in analytics, ML & decision-making systems  
 
 ---
+## 🚀 What I Do
+- Analyze and clean large datasets  
+- Build dashboards using Power BI  
+- Write SQL queries for data extraction  
+- Apply Python for data analysis & automation  
 
+---
 ## 🧰 Tech Stack
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy  
