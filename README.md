@@ -1,3 +1,5 @@
+![Banner](https://www.canva.com/design/DAHEyF0V_Jc/gDHybIY0yISzH4fnMGR1-A/edit?utm_content=DAHEyF0V_Jc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 # 👋 Hi, I'm Dhiksha C G
 
 🎓 Data Science Undergraduate | 📊 Data Analyst | 🤖 Aspiring Data Scientist  
