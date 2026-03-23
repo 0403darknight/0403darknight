@@ -2,10 +2,12 @@
   <img src="https://github.com/0403darknight/0403darknight/blob/main/Dhiksha%20C%20G.png?raw=true" width="100%" />
 </p>
 
-# 👋 Hi, I'm Dhiksha C G
+<h1 align="center">👋 Hi, I'm Dhiksha C G</h1>
 
-📊 Turning data into insights & business decisions  
-📍 Bengaluru, India  
+<p align="center">
+📊 Turning data into insights & business decisions <br>
+📍 Bengaluru, India
+</p>
 
 ---
 
@@ -18,6 +20,7 @@ I’m a Data Science student passionate about solving real-world problems using 
 - 📈 Interested in analytics, ML & decision-making systems  
 
 ---
+
 ## 🚀 What I Do
 - Analyze and clean large datasets  
 - Build dashboards using Power BI  
@@ -25,11 +28,12 @@ I’m a Data Science student passionate about solving real-world problems using 
 - Apply Python for data analysis & automation  
 
 ---
+
 ## 🧰 Tech Stack
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy  
-**Tools:** Power BI, Excel  
-**Core Skills:** Data Cleaning, Reporting, Dashboarding  
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy  
+- **Tools:** Power BI, Excel  
+- **Core Skills:** Data Cleaning, Reporting, Dashboarding  
 
 ---
 
@@ -52,7 +56,14 @@ I’m a Data Science student passionate about solving real-world problems using 
 
 ---
 
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0403darknight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0403darknight&layout=compact" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/dhiksha-c-g-43b579285  
