@@ -42,10 +42,7 @@ I’m a Data Science student passionate about solving real-world problems using 
 
 ---
 
-## 📈 GitHub Stats
-![Dhiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=0403darknight&show_icons=true)
 
----
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/dhiksha-c-g-43b579285  
