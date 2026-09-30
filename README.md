@@ -36,7 +36,7 @@
 ╠══════════════════════════════════════════════════════════════════╣
 ║  role       →  Data Scientist & Data Analyst                     ║
 ║  education  →  CS (Data Science), AMC Engineering College        ║
-║  gpa        →  8.25 / 10.0                                       ║
+║  gpa        →  8.26 / 10.0                                       ║
 ║  location   →  Bengaluru, India                                  ║
 ║  research   →  Co-author · ICRCCT 2025                           ║
 ║  status     →  Open to opportunities ✦                           ║
