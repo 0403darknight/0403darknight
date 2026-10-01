@@ -16,10 +16,10 @@
 <br/>
 
 <!-- ── PROFILE BADGES ────────────────────────────────────────── -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhiksha-c-g-43b579285)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiksha-c-g-43b579285)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0403darknight)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhikshacg@gmail.com)
 
 <br/>
 <br/>
@@ -252,7 +252,7 @@ If you're working on something interesting, let's connect.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhiksha-c-g-43b579285)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiksha-c-g-43b579285)
 &nbsp;
 [![Email](https://img.shields.io/badge/Send_an_Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhikshacg@gmail.com)
 &nbsp;
@@ -260,3 +260,9 @@ If you're working on something interesting, let's connect.
 
 </div>
 
+<!-- ── FOOTER BANNER ──────────────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" alt="footer"/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=0403darknight&style=flat-square&color=1a1a1a&label=PROFILE+VIEWS" alt="profile views"/>
+</div>
