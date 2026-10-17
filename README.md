@@ -18,7 +18,6 @@
 <!-- ── PROFILE BADGES ────────────────────────────────────────── -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiksha-c-g-43b579285)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0403darknight)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhikshacg@gmail.com)
 
 <br/>
@@ -256,7 +255,6 @@ If you're working on something interesting, let's connect.
 &nbsp;
 [![Email](https://img.shields.io/badge/Send_an_Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhikshacg@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
