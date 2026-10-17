@@ -260,9 +260,3 @@ If you're working on something interesting, let's connect.
 
 </div>
 
-<!-- ── FOOTER BANNER ──────────────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" alt="footer"/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0403darknight&style=flat-square&color=1a1a1a&label=PROFILE+VIEWS" alt="profile views"/>
-</div>
